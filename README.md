@@ -185,5 +185,24 @@ GitHub: https://github.com/Parag-Bhoyar
 
 I built TaskFlow as a practical project to improve my frontend development skills and gain experience taking a web application from development to deployment.
 
+
+## Screenshots
+
+### Dashboard
+![TaskFlow Dashboard](screenshots/Dashboard.png.png)
+
+### All Tasks
+![All Tasks](screenshots/All%20Tasks.png.png)
+
+### In Progress
+![In Progress](screenshots/In%20Progress.png.png)
+
+### Completed
+![Completed Tasks](screenshots/Completed.png.png)
+
+### Create Task
+![Create Task](screenshots/CreateTask.png.png)
+
+
 Thanks for checking out my project!
 
