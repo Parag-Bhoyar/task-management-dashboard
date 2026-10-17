@@ -1,16 +1,57 @@
-# React + Vite
+# TaskFlow – Task Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive task management dashboard built with React and Tailwind CSS to help users organize, track, and manage their daily tasks.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View TaskFlow Live](https://task-management-dashboard-two-sable.vercel.app/)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Dashboard with task statistics
+- View all tasks, in-progress tasks, and completed tasks
+- Add, edit, and delete tasks
+- Search and filter tasks
+- Task priority and status management
+- Local storage to preserve tasks in the browser
+- Responsive interface for desktop and mobile
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+- Lucide React
+- Git and GitHub
+- Vercel
+
+## 💻 Run Locally
+
+1. Clone this repository:
+
+   `git clone https://github.com/Parag-Bhoyar/task-management-dashboard.git`
+
+2. Open the project folder:
+
+   `cd task-management-dashboard`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+5. Open the local URL shown in your terminal.
+
+## 🌐 Deployment
+
+Deployed using Vercel.
+
+## 👨‍💻 Author
+
+Parag Bhoyar
+
+[GitHub Profile](https://github.com/Parag-Bhoyar)
